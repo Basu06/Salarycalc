@@ -1,0 +1,8 @@
+C:\Dotnet\Salarycalc\Salarycalc\obj\Debug\Salarycalc.csproj.AssemblyReference.cache
+C:\Dotnet\Salarycalc\Salarycalc\obj\Debug\Salarycalc.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet\Salarycalc\Salarycalc\obj\Debug\Salarycalc.csproj.CoreCompileInputs.cache
+C:\Dotnet\Salarycalc\Salarycalc\bin\Debug\Salarycalc.exe.config
+C:\Dotnet\Salarycalc\Salarycalc\bin\Debug\Salarycalc.exe
+C:\Dotnet\Salarycalc\Salarycalc\bin\Debug\Salarycalc.pdb
+C:\Dotnet\Salarycalc\Salarycalc\obj\Debug\Salarycalc.exe
+C:\Dotnet\Salarycalc\Salarycalc\obj\Debug\Salarycalc.pdb
